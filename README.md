@@ -33,8 +33,6 @@ Personal portfolio built with React, TypeScript, and SCSS.
 ---
 
 ### 📊 GitHub Stats
-
-![Marat's GitHub stats](https://github-readme-stats.vercel.app/api?username=maratryspekov&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratryspekov&layout=compact&theme=tokyonight)
 
 ---
