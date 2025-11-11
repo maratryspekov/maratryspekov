@@ -19,7 +19,7 @@
 
 ### 🧩 Featured Projects
 
-🎬 [**Cinema Guide Marusya**](https://github.com/maratryspekov/Cinema-Guide-Marusya)  
+🎬 [**Cinema Guide Marusya**](https://github.com/maratryspekov/Cinema-Guide-Marusya-)  
 Movie discovery app built with React, TypeScript, and Vite.
 
 💡 [**Briaton Online Store**](https://github.com/maratryspekov/briaton-onlinestore)  
