@@ -2,7 +2,7 @@
 
 # Hi, I'm **Marat Ryspekov**
 
-🎯 **Junior Frontend Developer** from **Berlin, Germany**  
+🎯 ** Frontend Developer** from **Berlin, Germany**  
 💡 Passionate about **React**, **TypeScript**, and user-centered UI  
 🚀 Currently learning **Next.js** & **GraphQL**
 
