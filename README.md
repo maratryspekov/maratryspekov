@@ -26,11 +26,11 @@ Movie discovery app built with React, TypeScript, and Vite.
 💡 **[Briaton Online Store](https://github.com/maratryspekov/briaton-onlinestore)**  
 E-commerce frontend demo with product filtering, sorting, and pagination.
 
-🌦 **[AirNow](https://github.com/maratryspekov/airnow)**  
-Real-time air quality monitor using OpenWeatherMap API.
-
 💻 **[My Portfolio](https://github.com/maratryspekov/my-portfolio)**  
 Personal portfolio built with React, TypeScript, and SCSS.
+
+🌦 **[AirNow](https://github.com/maratryspekov/airnow)**  
+Real-time air quality monitor using OpenWeatherMap API.
 
 🧠 **[Trivia Visualizer](https://github.com/maratryspekov/trivia-visualizer)**  
 Trivia questions visualized with charts (Recharts).
@@ -49,19 +49,5 @@ Trivia questions visualized with charts (Recharts).
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🌱 Currently Learning
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=t)
 
