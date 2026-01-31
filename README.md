@@ -57,7 +57,7 @@ Real-time air quality monitor using OpenWeatherMap API.
 
 ---
 
-### 🌱 Currently Learning
+### 🌱Currently Learning
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
